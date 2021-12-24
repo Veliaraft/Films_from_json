@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Books2</string>
+    <string name="random_film">Get random film</string>
+</resources>
